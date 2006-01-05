@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Sub-ParamLoader.t
+lib/Sub/ParamLoader.pm
