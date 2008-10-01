@@ -1,4 +1,4 @@
-use Test::More tests => 25;
+use Test::More tests => 19;
 BEGIN { use_ok('Sub::ParamLoader') };
 
 my %B = ('Y'=>1,'N'=>0,'y'=>1,'n'=>0);
